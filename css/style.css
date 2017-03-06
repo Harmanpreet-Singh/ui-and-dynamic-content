@@ -16,12 +16,13 @@ body {
     padding:0;
     font-size:  1.618rem;
     line-height: 1.618;
-	background-color: black;
+    background-color: black;
     text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Slabo 27px', serif;
+    font-size:  1.618rem;
     text-transform: uppercase;
 }
 
